@@ -1,0 +1,9 @@
+What is the value of SQLAlchemy?
+-SQLAlchemy simplifies the usage of databases such that different relational databases are abstracted to the same Python commands. SQLAlchemy's Object Relational Mapper (ORM) allows SQLAlchemy to deal with SQL queries on its own and leave the user free to define their own classes that can be linked to the various database tables as the user wants.
+
+What is a model?
+-A model defines the structure and logic of an application/database. It controls how data is stored and accessed.
+
+What is a view?
+-A view is a virtual representation of information for the user to see. In SQL, a view may be a table or a combination of existing tables that displays the results of a SQL query.
+
